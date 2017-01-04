@@ -10,4 +10,4 @@ https://wiki.postgresql.org/wiki/Replication,_Clustering,_and_Connection_Pooling
 		- Londiste
 		- pglogical : prefer pakai ini
 
-Manual Guide : /usr/share/doc/pglogical/
+Manual Guide : /usr/share/doc/postgresql95-pglogical
