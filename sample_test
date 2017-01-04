@@ -1,0 +1,4 @@
+passwd postgres
+su - postgre
+createdb testo
+psql
